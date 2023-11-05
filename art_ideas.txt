@@ -126,6 +126,69 @@ tasty
 sweet
 mind-melting
 addictive
+explosive
+moist
+stupid
+delectable
+volitile
+burning
+turbulent
+voluptuous
+repulsive
+lusty
+argonian
+cantankerous
+diabolical
+homoerotic
+sexual
+funky
+psychic
+bewildered
+helpless
+jealous
+scary
+thoughtless
+phosphorescent
+tiny
+unkempt
+fluffy
+virtual
+soggy
+kind
+tepid
+gentle
+undead
+silly
+draconic
+rebellious
+lithe
+detestable
+ethereal
+muscular
+thin
+defeated
+itchy
+pitiful
+puny
+naked
+femboy
+himbo
+demonic
+bimbo
+magical
+cursed
+monstrous
+off-brand
+scary
+monetized
+de-monetized
+careful
+risky
+voracious 
+gullible
+mysterious
+scrumptuous
+sizeable
 
 $modeler
 Evalion
@@ -145,4 +208,4 @@ Pick from the Root tab for [job]
 $>OC Antics
 [random color] amogus is sus
 $>Art request
-	I [need|want|comissioned] [[artist] to draw|[modeler] to model] my OC! <small>a [random color] colored [[animal]|[noun]][ as a [type]|[type]|][ that is a [job]|][|[, that has a [[adj] |][hyper]]]!</small>
+	I [need|want|comissioned] [[artist] to draw|[modeler] to model] my OC! <small>a [random color] colored [[animal]|[noun]][ as a [type]|[type]|][ that is a [job]|][|[, that has a [[adj] |][hyper]][ and a [[adj] |][hyper]]]!</small>
