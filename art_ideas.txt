@@ -1,0 +1,148 @@
+$name : Crazy Ideas
+$author : er dork
+$description : Select the Root tab for more
+$amount : 3
+
+$include https://orteil.dashnet.org/randomgen/gens/animal.txt
+$animal
+bionicle
+Piraka
+robot
+droid
+battledroid
+super battledroid
+droideka
+drone
+quadcopter drone
+drone plane
+R2D2
+C3PO
+MRVN
+Pathfinder
+Freddy Fazbear
+endoskeleton (FNAF)
+amogus
+sergal
+felkin
+alien
+xenomorph
+yautja
+sangheili
+jackal
+kig-yar
+grunt
+worm creature
+Halo hunter
+HL2:E2 hunter
+HL2 barnacle
+headcrab
+turian
+krogan
+asari
+salarian
+[furred|noodle|wingless] dragon
+
+$type
+(taur) {10%}
+(naga) {10%}
+(robot) {20%}
+(android) {20%}
+(anthro) {40%}
+(human)
+
+$include https://orteil.dashnet.org/randomgen/gens/job.txt
+$include https://orteil.dashnet.org/randomgen/gens/nouns.txt
+$include https://orteil.dashnet.org/randomgen/gens/color.txt
+
+$artist
+Amphissal
+Sharkstuff
+Bovy
+Alexderg
+Mink of the End
+Rykuta
+Zalia
+Trite
+Blue
+ChrisMono
+GhostofYourDad
+Edjit
+Kink
+Tzerin
+Fepon
+Azserfy
+Torrle
+Ray
+Covertcanine
+Zyyph
+Kah Woo
+Alovion
+Nittoh
+Nick Шня
+Mishanson
+annoy
+Geese
+Phoneme
+Missile
+Null the Ludroth
+ShinyWark
+KAL!𓃠
+Domidark
+Skiffington
+Rhodesy
+Soraime
+Plive
+BONKS
+Axelshane
+OneMoreDragon
+Hopfel
+Verdrusk
+Ausjamcian
+Leafysnivy
+Bovy
+Evalion
+Morca
+Narse
+SRG <small>(smolrainbowgoat)</small>
+
+$hyper
+donut
+cock
+sack
+pussy
+ass
+
+$adj
+juicy
+thick
+droopy
+saggy
+dank
+hyper
+giant
+hefty
+plump
+tasty
+sweet
+mind-melting
+addictive
+
+$modeler
+Evalion
+Malfaren
+Verdrusk
+Xayr
+Torrle
+Leafysnivy
+Alovion
+Nittoh
+Phoneme
+Berreika
+Rhodesy
+
+$Null
+Pick from the Root tab for [job]
+$>OC Antics
+[random color] amogus is sus
+$>Art request
+	I [need|want|comissioned] [[artist] to draw|[modeler] to model] my OC! <small>a [random color] colored [[animal]|[noun]][ as a [type]|[type]|][ that is a [job]|][, that has a [ $adj|]$hyper]!</small>
