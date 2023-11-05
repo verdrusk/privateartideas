@@ -55,6 +55,7 @@ $include https://orteil.dashnet.org/randomgen/gens/nouns.txt
 $include https://orteil.dashnet.org/randomgen/gens/color.txt
 
 $artist
+spe
 Amphissal
 Sharkstuff
 Bovy
@@ -192,6 +193,7 @@ scrumptuous
 sizeable
 
 $modeler
+spe
 Evalion
 Malfaren
 Verdrusk
