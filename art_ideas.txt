@@ -165,6 +165,54 @@ homoerotic
 sexual
 funky
 psychic
+steamy
+ugly
+dumb
+retarded
+fucky
+glistening
+glazed
+frosted
+decorated
+decorative
+baked
+stoned
+high
+zoomed
+zooted
+pulsing
+throbby
+throbbing
+spontaneous
+leathery
+interactive
+VR
+real
+unreal
+epic
+pogger
+pogchamp
+awesome
+traditional
+goofy ah
+goofy
+spooky
+gaping
+funneling
+darkened
+dark
+overgrown
+overhanging
+hung
+hanging
+spunky
+goony
+goo
+gooey
+melted
+melting
+fudge
+chocolatey
 bewildered
 helpless
 jealous
@@ -208,6 +256,21 @@ careful
 risky
 voracious 
 gullible
+idiotic
+smart
+sentient
+transformed
+game theory material lookin'
+crooked
+off-center
+middle
+double
+triple
+quad
+sweating
+dripping
+wet
+post-tf'd
 mysterious
 scrumptuous
 sizeable
@@ -229,4 +292,4 @@ Rhodesy
 $Null
 Pick from the Root tab for [job]
 $>OC Antics
- <small>a [[random color] colored |][[animal]|[noun]][ as a [type]|[type]|][ [job]|][ with a [[animal]|[noun]] head][|[, that has a [[adj], |][[adj] |][[artist][ ]|[noun] |][hyper]][ and a [[adj], |][[adj] |][[noun] |][hyper]]][, who cosplays as a [[adj], |][adj] [[animal]|[noun]|[hyper]]|][, and likes to eat [[animal]|[noun]][s][ and [[animal]|[noun]][s]|]|]!</small>
+ <small>a [[random color] colored |][[animal]|[noun]][ as a [type]|[type]|][ [job]|][ with a [[animal]|[noun]] head|][|[, that has a [[adj], |][[adj] |][[artist][ ]|[noun] |][hyper]][ and a [[adj], |][[adj] |][[noun] |][hyper]]][, who cosplays as a [[adj], |][adj] [[animal]|[noun]|[hyper]]|][, and likes to eat [[animal]|[noun]][s][ and [[animal]|[noun]][s]|]|]!</small>
