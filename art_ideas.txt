@@ -27,6 +27,24 @@ felkin
 alien
 xenomorph
 yautja
+enderman
+creeper
+skibidi-toilet
+cow
+pig
+sheep
+ghast
+ender dragon
+silverfish
+boykisser
+minecraft Steve
+Herobrine
+koopa
+Bowser
+turtle
+dolphin
+piglin
+hoglin
 sangheili
 jackal
 kig-yar
