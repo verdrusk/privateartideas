@@ -209,6 +209,7 @@ Rhodesy
 $Null
 Pick from the Root tab for [job]
 $>OC Antics
-[random color] amogus is sus
+ <small>a [random color] colored [[animal]|[noun]][ as a [type]|[type]|][ [job]|][|[, that has a [[adj] |][[noun] |][hyper]][ and a [[adj] |][[noun] |][hyper]]][, who cosplays as a [adj] [[animal]|[noun]|[hyper]]|]!</small>
 $>Art request
 	I [need|want|comissioned] [[artist] to draw|[modeler] to model] my OC! <small>a [random color] colored [[animal]|[noun]][ as a [type]|[type]|][ that is a [job]|][|[, that has a [[adj] |][[noun] |][hyper]][ and a [[adj] |][[noun] |][hyper]]][, who enjoys cosplaying as a [adj] [[animal]|[noun]|[hyper]]|]!</small>
+
