@@ -289,6 +289,11 @@ Phoneme
 Berreika
 Rhodesy
 
+$phrase
+a %1
+$out
+"[phrase,<small>a [[random color] colored |][[animal]|[noun]][ as a [type]|[type]|][ [job]|][ with a [[animal]|[noun]] head|][|[, that has a [[adj], |][[adj] |][[artist][ ]|[noun] |][hyper]][ and a [[adj], |][[adj] |][[noun] |][hyper]]][, who cosplays as a [[adj], |][adj] [[animal]|[noun]|[hyper]]|][, and likes to eat [[animal]|[noun]][s][ and [[animal]|[noun]][s]|]|]!</small>"
+
 $Null
 Pick from the Root tab for [job]
 $>OC Antics
